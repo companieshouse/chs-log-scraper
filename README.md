@@ -1,6 +1,6 @@
 # chs-log-scraper
 
-Infrastructure code for the provisioning of object storage for CHS environment logs.
+Infrastructure code for the provisioning of object storage for CHS environment service logs.
 
 ## Overview
 
