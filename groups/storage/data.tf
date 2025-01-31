@@ -1,6 +1,6 @@
 
 data "aws_iam_user" "concourse" {
-  user_name = "concourse-server-staging"
+  user_name = "concourse-server-${var.aws_account}"
 }
 
 data "aws_iam_policy_document" "bucket" {
